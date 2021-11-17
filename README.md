@@ -1,2 +1,1 @@
-# glitch-gif
-Python библиотека для создания glitch эффекта на изображении/видео с возможностью экспорта в GIF файл
+![](https://github.com/tonypithony/glitch-gif/blob/main/glitched_test.gif)
